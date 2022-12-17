@@ -1,1 +1,1 @@
-# firstID-solana
+# My special token "Kitten"
